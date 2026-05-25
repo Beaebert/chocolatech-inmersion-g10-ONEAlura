@@ -153,7 +153,10 @@ Este repositorio es de uso educativo. Los documentos de políticas de ChocolaTec
 ## 📸 Demo
 
 ### Workflow en n8n
-![Workflow n8n](./assets/workflow-n8n.png)
+![Workflow n8n](./n8n_AI.jpg)
+![Workflow n8n](./n8n_AI_1.jpg)
+![Workflow n8n](./n8n_AI_2.jpg)
+![Workflow n8n](./n8n_AI_3.jpg)
 
 ### Conversación en Telegram
-![Demo Telegram](./assets/demo-telegram.png)
+![Demo Telegram](./TelegramChat.jpg)
