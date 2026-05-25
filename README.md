@@ -160,3 +160,6 @@ Este repositorio es de uso educativo. Los documentos de políticas de ChocolaTec
 
 ### Conversación en Telegram
 ![Demo Telegram](./TelegramChat.jpg)
+![Demo Telegram](./TelegramChat_1.jpg)
+![Demo Telegram](./TelegramChat_2.jpg)
+![Demo Telegram](./TelegramChat_3.jpg)
